@@ -8,7 +8,7 @@ share: true
 comments: true
 author: Author1
 hidelogo: true
-2018-06-08
+date: 2018-06-08
 ---
 #### 개아들 캡틴에게
 캡틴에게 쓰는 편지
