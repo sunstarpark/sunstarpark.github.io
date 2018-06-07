@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Micronaut Modified So Simple Theme
+title: MINT's Odd blog
 locale: en_US
 timezone: CET
-description: Theme based on So Simple Theme
+description: 매일매일의 삽질일기
 logo: site-logo.svg
 search: true
-url: #your-site-url
+url: https://sunstarpark.github.io/
 external_data_url: # common url for images and other external data
 
 # Jekyll configuration
@@ -74,32 +74,8 @@ compress_html:
 
 # Site owner
 owner:
-  name: Site Name
+  name: 민트의 이상한 블로그
   avatar: site-logo.png
-  email: #youremail
-  disqus-shortname: #your-disqus-shortname
-  twitter: #your-twitter-name
-  facebook: #username
-  github: #your-github-name
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram:
-    user: #instagram-username
-    userId: #instagram-userId
-    clientId: #instagram-clientId
-  flickr: #username
-  tumblr: #tumblr-name
-  pinterest: #username
-  weibo: #userid
-  soundcloud: #soundcloud-name
-  mixcloud: #mixcloud-name
-  lastfm: #username
-  tawkto:
-    siteID: #tawkto-siteID
-  google:
-    plus:
-    analytics: #google-analytics-id
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
+  email: zzaaaab@gmail.com  
+  github: https://github.com/sunstarpark
+  
